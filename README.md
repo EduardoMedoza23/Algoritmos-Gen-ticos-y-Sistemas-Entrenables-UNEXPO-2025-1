@@ -14,7 +14,7 @@
 
 ## 📂 Contenido
 
-- [x] Presentaciones del curso e informacion del  
+- [x] Presentaciones del curso e informacion del edumento 
 - [x] Proyectos grupales  
 ---
 
